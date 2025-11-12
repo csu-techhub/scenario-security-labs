@@ -2,7 +2,7 @@ In this lab, participants engage in the simulation of the EternalBlue attack, a 
 
 This scenario begins students’ introduction to incident response. With the readings assigned for this scenario, students learn critical components of an incident response, including background, planning, and execution. The readings reinforce that a security incident is often considered inevitable and that planning for such an incident is critical and must be cross-functional. Building off a cross-functional incident response, legal obligations, such as the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and data breach notification laws, are incorporated into this scenario.  
 
-Reading:  
+Reading (Ransomware Investigations):  
 [The Sedona Conference, Incident_Response_Guide (2020](https://thesedonaconference.org/publication/Incident_Response_Guide)  
 [WannaCry Ransomware CyberAttack Raises Legal Issues (May 22, 2017)](https://www.morganlewis.com/pubs/2017/05/wannacry-ransomware-cyberattack-raises-legal-issues)  
 [Michael Schmitt and Sean Fahey, WannaCry and the International Law of Cyberspace (Dec. 22, 2017)](https://www.justsecurity.org/50038/wannacry-international-law-cyberspace/)  
