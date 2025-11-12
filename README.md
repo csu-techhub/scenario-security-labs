@@ -1,10 +1,11 @@
 # ⚖️ HackLab  
-Scenario-Based Cybersecurity Laboratory Series: Bridging Law and Engineering  
-**Author:** Dr. Chansu Yu, Cleveland State University (CSU)  
-**Affiliation:** Department of Electrical & Computer Engineering and Cleveland-Marshall College of Law (CSU)  
-**Center:** Center for Cybersecurity & Privacy Protection and CSU T.E.C.H. Hub  
+Scenario-Based Cybersecurity Laboratory Series: Bridging Law & Engineering  
+**Author:** [Dr. Chansu Yu](https://academic.csuohio.edu/yu-chansu/), [Cleveland State University (CSU)](https://www.csuohio.edu/)  
+**Collaborators:** Drs. Brian Ray, Debbie Jackson & Sathish Kumar  
+**Affiliation:** Washkewicz College of Engineering, College of Law & Levin College of Urban Affairs and Education, CSU  
+**Center:** [Center for Cybersecurity and Privacy Protection](https://www.law.csuohio.edu/academics/centersandprograms/cybersecurity) & [CSU T.E.C.H. Hub](https://www.csuohio.edu/techhub)  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-**Contact:** c.yu91@csuohio.edu  
+**Contact:** [c.yu91@csuohio.edu](mailto:c.yu91@csuohio.edu)
 
 ---
 
