@@ -30,10 +30,6 @@ After completing these modules, participants will be able to:
 ## 🧩 Repository Structure
 ```
 ScenarioBased-Cybersecurity/
-├── Lectures/
-│ ├── 01_Introduction_to_Cyber_Law_and_Engineering.pdf
-│ ├── 02_Attack_Types_and_Legal_Frameworks.pdf
-│ └── 03_Ethical_and_Incident_Response_Decision_Making.pdf
 ├── Labs/
 │ ├── Lab1_DDoS_Attack_and_Response.pdf
 │ ├── Lab2_Phishing_and_Evidence_Chain.pdf
