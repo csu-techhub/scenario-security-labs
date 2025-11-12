@@ -2,4 +2,8 @@ As shown in Figure 5, this lab experiment explores security vulnerabilities in P
 
 The readings assigned for this scenario introduce students to the Computer Fraud and Abuse Act (CFAA). Through case studies where individuals were charged with violating the CFAA, students gain a fundamental understanding of what constitutes a cyber crime and the legal implications that follow. Other concepts discussed in this scenario are wire fraud and identity fraud.  
 
+Reading (Cybersecurity Risk Assessments):  
+[The Complete Guide to Understanding Cybersecurity Frameworks, Practical Law Data Security Risk Assessments and Reporting (2021)](https://www.celerium.com/cybersecurity-frameworks-a-comprehensive-guide)  
+[Performing Data Security Risk Assessments Checklist, Cybersecurity Tech Basics: Critical Security Controls: Overview](https://csulawonline.instructure.com/courses/193/files/8623?wrap=1)  
+  
 <img width="384" height="256" alt="jcp-s3" src="https://github.com/user-attachments/assets/ad028bb5-af5a-49cd-bdcd-3a0cb6afcf2a" />
