@@ -8,5 +8,12 @@ Scenario 4: Website Fingerprinting—explores attacks through website fingerprin
 Scenario 5: DDoS Attack—involves a distributed denial of service (DDoS) attack, focusing on network resilience.  
 Scenario 6: Hacking Group Thallium—examines a phishing attack by the Thallium group, emphasizing defense against social engineering.  
 
+Reading:  
+[Global Investigations Review, The Guide to Cybersecurity Investigations (2nd ed. 2021), Ch. 1: The Threat Landscape](https://globalinvestigationsreview.com/guide/the-guide-cyber-investigations-archived/first-edition/article/the-cyber-threat-landscape)  
+[Robert M. Chesney, Cybersecurity Law, Policy, and Institutions (v. 3.1) Introduction to Key Terms & Concepts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3547103)  
+
+Video:  
+[Russia vs. Ukraine: The Biggest Cyber Attack Ever. Darknet Diaries Ep. 54](https://www.youtube.com/watch?v=N20q-ZMop0w)  
+    
 ![overall_3](https://github.com/user-attachments/assets/765a884a-5c50-45cd-b97d-1607d478af80)
 ![table1](https://github.com/user-attachments/assets/a64e68b4-01e7-437a-8243-67d8bd52364f)
