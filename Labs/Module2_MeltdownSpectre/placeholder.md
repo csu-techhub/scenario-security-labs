@@ -1,1 +1,3 @@
+This scenario involves students comprehending a spectre attack on a Kali Linux machine, shown in the figure. Additionally, students scrutinize legal issues and risks arising from hardware vulnerabilities in the context of cybersecurity practice, including laws that govern the responsibility for identifying vulnerabilities and potential liability for organizations affected by related cyberattacks. They will also learn to advise clients on vulnerability disclosure.
 
+<img width="384" height="256" alt="jcp-s2(new)" src="https://github.com/user-attachments/assets/14d838c9-d16a-48f9-8687-26a6f4ed1a6c" />
