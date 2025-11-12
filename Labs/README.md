@@ -1,1 +1,9 @@
-
+The curriculum consists of a mix of lectures, direct/indirect lab experiments, and group discussions to ensure course compliance. Concepts can be introduced in lectures, but the learning uptake is best when the students can experience the concepts through practice and interdisciplinary group discussions. The group discussion session is an important element of this course. Cross-disciplinary team learning is to mimic the tabletop conversation to solve a cyber-attack problem in a practical environment. Four learning goals are: (i) self-identify skills, knowledge, and potential project contributions (identification), (ii) recognize the potential contributions of others to the project (recognition), (iii) interact with team members during design discussion to draw out and clarify disciplinary perspectives (interaction), and (iv) synthesize awareness and appreciation of other disciplines and reflect this understanding in design products (integration). In each of the cybersecurity scenarios, students become aware of the difficulties and yet the criticalness of the four aspects of cross-disciplinary team learning, particularly in order to solve the complex cybersecurity phenomenon.  
+  
+The curriculum features six key scenarios targeting malware/ransomware, web-based attacks, and phishing/social engineering, each designed to provide practical experience:  
+Scenario 1: EternalBlue—focuses on a malware attack exploiting the EternalBlue vulnerability, emphasizing patch management.  
+Scenario 2: Spectre/Meltdown—addresses hardware-level vulnerabilities and the need for robust hardware security.  
+Scenario 3: PBX Hacking—deals with web-based attacks on private branch exchange (PBX) systems, highlighting network security challenges.  
+Scenario 4: Website Fingerprinting—explores attacks through website fingerprinting, stressing web traffic protection.  
+Scenario 5: DDoS Attack—involves a distributed denial of service (DDoS) attack, focusing on network resilience.  
+Scenario 6: Hacking Group Thallium—examines a phishing attack by the Thallium group, emphasizing defense against social engineering.  
