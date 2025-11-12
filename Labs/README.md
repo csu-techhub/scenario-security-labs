@@ -7,3 +7,6 @@ Scenario 3: PBX Hacking—deals with web-based attacks on private branch exchang
 Scenario 4: Website Fingerprinting—explores attacks through website fingerprinting, stressing web traffic protection.  
 Scenario 5: DDoS Attack—involves a distributed denial of service (DDoS) attack, focusing on network resilience.  
 Scenario 6: Hacking Group Thallium—examines a phishing attack by the Thallium group, emphasizing defense against social engineering.  
+
+![overall_3](https://github.com/user-attachments/assets/765a884a-5c50-45cd-b97d-1607d478af80)
+![table1](https://github.com/user-attachments/assets/a64e68b4-01e7-437a-8243-67d8bd52364f)
