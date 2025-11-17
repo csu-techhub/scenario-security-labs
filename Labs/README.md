@@ -15,5 +15,8 @@ Reading:
 Video:  
 [Russia vs. Ukraine: The Biggest Cyber Attack Ever. Darknet Diaries Ep. 54](https://www.youtube.com/watch?v=N20q-ZMop0w)  
     
-![overall_3](https://github.com/user-attachments/assets/765a884a-5c50-45cd-b97d-1607d478af80)
-![table1](https://github.com/user-attachments/assets/a64e68b4-01e7-437a-8243-67d8bd52364f)
+
+<img width="384" height="512" alt="overall_3" src="https://github.com/user-attachments/assets/765a884a-5c50-45cd-b97d-1607d478af80" />  
+
+<img width="500" alt="table1" src="https://github.com/user-attachments/assets/a64e68b4-01e7-437a-8243-67d8bd52364f" />
+
