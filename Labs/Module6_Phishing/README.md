@@ -9,6 +9,6 @@ Reading (Nation-State Cybercrime):
 
 Video:  
 [CyberWire, Taking down Thallium](https://www.youtube.com/watch?v=jGC-UwKVkYc)  
-    
-![jcp-s6](https://github.com/user-attachments/assets/4d18b676-e1e1-4a6b-b87a-5952828ece83)
+
+<img width="384" height="256" alt="jcp-s6" src="https://github.com/user-attachments/assets/4d18b676-e1e1-4a6b-b87a-5952828ece83" />
 
